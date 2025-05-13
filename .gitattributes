@@ -1,0 +1,12 @@
+/n-back-test/Assets/Proxy[[:space:]]Games/Stylized[[:space:]]Nature[[:space:]]Kit[[:space:]]Lite/Misc/HDRI.hdr filter=lfs diff=lfs merge=lfs -text
+/n-back-test/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+/n-back-test/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/local_aar_for_lint/release/out.aar filter=lfs diff=lfs merge=lfs -text
+/n-back-test/Library/Bee/artifacts/Android/d8kzr/libil2cpp.so filter=lfs diff=lfs merge=lfs -text
+/n-back-test/Library/Bee/artifacts/Android/il2cppOutput/build/arm64-v8a/libil2cpp.dbg.so filter=lfs diff=lfs merge=lfs -text
+/n-back-test/Library/Bee/artifacts/objcopy_5lmi/libil2cpp.dbg.so filter=lfs diff=lfs merge=lfs -text
+/n-back-test/Library/PackageCache/com.unity.burst@1.8.17/.Runtime/burst-llvm-16-arm64.dll filter=lfs diff=lfs merge=lfs -text
+/n-back-test/Library/PackageCache/com.unity.burst@1.8.17/.Runtime/burst-llvm-16.dll filter=lfs diff=lfs merge=lfs -text
+/n-back-test/Library/PackageCache/com.unity.burst@1.8.17/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
+/n-back-test/Library/PackageCache/com.unity.burst@1.8.17/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+/n-back-test/Library/PackageCache/com.unity.burst@1.8.17/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+/n-back-test/Library/PackageCache/com.unity.burst@1.8.17/.Runtime/libburst-llvm-16.so filter=lfs diff=lfs merge=lfs -text

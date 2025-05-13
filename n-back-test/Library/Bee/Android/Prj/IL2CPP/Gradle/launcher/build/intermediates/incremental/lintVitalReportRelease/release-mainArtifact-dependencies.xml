@@ -1,0 +1,20 @@
+<dependencies>
+  <compile
+      roots="C:\Users\jacks\cs791\vr-cognitive-games\n-back-test(old)\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release">
+    <dependency
+        name="C:\Users\jacks\cs791\vr-cognitive-games\n-back-test(old)\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="C:\Users\jacks\cs791\vr-cognitive-games\n-back-test(old)\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release,__local_aars__:C:\Users\jacks\cs791\vr-cognitive-games\n-back-test(old)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,C:\Users\jacks\cs791\vr-cognitive-games\n-back-test(old)\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release">
+    <dependency
+        name="C:\Users\jacks\cs791\vr-cognitive-games\n-back-test(old)\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:C:\Users\jacks\cs791\vr-cognitive-games\n-back-test(old)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:C:\Users\jacks\cs791\vr-cognitive-games\n-back-test(old)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"/>
+    <dependency
+        name="C:\Users\jacks\cs791\vr-cognitive-games\n-back-test(old)\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+        simpleName="Gradle.unityLibrary:xrmanifest.androidlib"/>
+  </package>
+</dependencies>
