@@ -15,5 +15,9 @@ You must have Unity Editor 2022 downloaded to run this program. Load the scene f
 
 ## Authors
 
-Jack Shippee
+Jack Shippee,
 Matthew Clement
+
+## Sponsor
+
+Sanghee Moon
